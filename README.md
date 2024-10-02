@@ -8,8 +8,9 @@ Yet another silly effort of turning Arx Fatalis into a Metroid game
 
 ## Features
 
-- replaces the menu background with a custom super metroid theme image
-- replaces menu music with super metroid menu theme
+- replaces the menu background with a custom Super Metroid theme image
+- replaces menu music with Super Metroid menu theme
+- replaces lava ambience on the dwarven level with Magmoor caverns theme from Metroid Prime 1
 
 **Compatible with
 [Arx Libertatis Mod Manager](https://github.com/fredlllll/ArxLibertatisModManager)**
