@@ -1,8 +1,8 @@
 # Noden Metroid mod for Arx Fatalis
 
-**This mod is work in progress**
-
 Yet another silly effort of turning Arx Fatalis into a Metroid game
+
+**This mod is work in progress**
 
 ![preview](preview.jpg?raw=true "preview")
 
